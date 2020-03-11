@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    },
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "python.pythonPath": "C:\\Anaconda3\\python.exe"
+}

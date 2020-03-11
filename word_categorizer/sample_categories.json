@@ -1,0 +1,10 @@
+[
+    {
+        "term": "batman",
+        "category": "superhero"
+    },
+    {
+        "term": "rose",
+        "category": "flower"
+    }
+]
